@@ -1,0 +1,11 @@
+id,name,grade,organisation,school,seed
+1,a,A,T,A,0
+2,b,B,O,A,0
+3,c,C,K,N,1
+4,d,A,N,N,0
+5,e,B,T,N,1
+6,f,C,O,J,0
+7,g,A,K,J,1
+8,h,B,N,A,0
+9,i,C,T,A,0
+10,j,A,O,J,0
